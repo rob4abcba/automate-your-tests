@@ -1,2 +1,2 @@
 language: python
-script: echo "hello world"
+script: pytest
