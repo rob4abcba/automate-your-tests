@@ -14,4 +14,4 @@ def test_answer():
 
     We expect this test to pass
     """
-    assert inc(4) == 5
+    assert inc(3) == 5
